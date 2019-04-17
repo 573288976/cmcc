@@ -1,0 +1,5 @@
+apt-get -y install openvswitch-common openvswitch-dbg openvswitch-switch python-openvswitch openvswitch-ipsec openvswitch-pki openvswitch-vtep
+
+apt-get -y install bridge-utils
+
+apt-get -y install arping
